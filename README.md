@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://rajlaxmi-portfolio-henna.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=900&color=00FF66&center=true&vCenter=true&width=700&height=50&lines=%24+whoami;Rajlaxmi+Singh+%E2%80%94+Backend+Software+Engineer;Node.js+%C2%B7+Express+%C2%B7+PostgreSQL+%C2%B7+Redis;I+build+APIs+that+don't+break+at+2+AM+%E2%98%95;%24+sudo+hire-rajlaxmi+%E2%86%92+Permission+granted+%E2%9C%85" alt="Typing intro: whoami, Rajlaxmi Singh, Backend Software Engineer" />
+<a href="https://rajlaxmi-portfolio-henna.vercel.app">  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=900&color=00FF66&center=true&vCenter=true&width=900&height=50&lines=%24+whoami;Rajlaxmi+Singh+%E2%80%94+Backend+Software+Engineer;Node.js+%C2%B7+Express+%C2%B7+PostgreSQL+%C2%B7+Redis;I+build+APIs+that+don't+break+at+2+AM+%E2%98%95;%24+sudo+hire-rajlaxmi+%E2%86%92+Permission+granted+%E2%9C%85" alt="Typing intro: whoami, Rajlaxmi Singh, Backend Software Engineer" />
 </a>
 
 ```text
